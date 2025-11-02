@@ -1,6 +1,7 @@
-# 👨‍💻 Kaayaeeshan Vanniyasingam
+# 👨‍💻 Kaayaeeshan Vanniyasingam  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&color=F7A731&width=435&lines=Full+Stack+Developer+;Tech+Enthusiast;Software+Engineer" alt="Typing SVG" /></a>
 
-**`Digital Craftsman (Software Engineer/ Full Stack Developer)`**
+**`Digital Craftsman (Software Engineer/ Full Stack Developer)`** 
 
 I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I’m passionate about crafting meaningful digital experiences, exploring new technologies, and continuously improving my skills to bring creative ideas to life through software.
 
