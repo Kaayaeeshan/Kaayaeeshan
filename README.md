@@ -20,7 +20,7 @@ I'm a full-stack developer building my version of the digital world one step at 
 <br />
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/>  <img align="left" alt="Github" width="48" height = "48" src="https://img.icons8.com/fluency/48/github.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>  <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img width="48" height="48" src="https://img.icons8.com/fluency/48/visual-studio.png" alt="visual-studio"/>  <img align="left" alt="Github" width="48" height = "48" src="https://img.icons8.com/fluency/48/github.png" /> <img width="48" height="48" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/> <img width="48" height="48" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/> <img width="48" height="48" src="https://img.icons8.com/color-glass/48/adobe-illustrator.png" alt="adobe-illustrator"/> <img width="48" height="48" src="https://img.icons8.com/3d-fluency/94/adobe-photoshop.png" alt="adobe-photoshop"/>
 
 #
 <details>
