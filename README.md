@@ -1,9 +1,34 @@
-# 👨‍💻 Kaayaeeshan Vanniyasingam  
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&color=F7A731&width=435&lines=Full+Stack+Developer+;Tech+Enthusiast;Software+Engineer" alt="Typing SVG" /></a>
+<h1>👨‍💻 Kaayaeeshan Vanniyasingam</h1>
 
-**`Digital Craftsman (Software Engineer| AI/ML Enthusiast | Full Stack Developer)`** 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&color=F7A731&width=435&lines=Full+Stack+Developer+;Tech+Enthusiast;Software+Engineer" alt="Typing SVG" />
+</a>
 
-I'm a full-stack developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. I’m passionate about crafting meaningful digital experiences, exploring new technologies, and continuously improving my skills to bring creative ideas to life through software.
+<table>
+  <tr>
+    <td width="38%" valign="middle">
+      <img src="./profile-ascii.svg" width="320" alt="Kaayaeeshan's animated ASCII portrait" />
+    </td>
+    <td width="62%" valign="middle">
+      <p>
+        <strong>
+          <code>Digital Craftsman (Software Engineer | AI/ML Enthusiast | Full Stack Developer)</code>
+        </strong>
+      </p>
+      <p>
+        I'm a full-stack developer building my version of the digital world
+        one step at a time. All coding projects are built from the ground up,
+        from planning and designing all the way to solving real-life problems
+        with code.
+      </p>
+      <p>
+        I’m passionate about crafting meaningful digital experiences,
+        exploring new technologies, and continuously improving my skills
+        to bring creative ideas to life through software.
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
