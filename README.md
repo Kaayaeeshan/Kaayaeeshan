@@ -1,38 +1,21 @@
 <h1>👨‍💻 Kaayaeeshan Vanniyasingam</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&color=F7A731&width=435&lines=Full+Stack+Developer+;Tech+Enthusiast;Software+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;duration=4000&amp;color=F7A731&amp;width=500&amp;lines=AI%2FML+Enthusiast;Software+Engineer;Full+Stack+Developer" alt="AI/ML Enthusiast, Software Engineer, Full Stack Developer" />
 </a>
 
-<img
-  align="left"
-  src="./profile-ascii.svg"
-  width="320"
-  alt="Kaayaeeshan's animated ASCII portrait"
-/>
-
-<p>
-  <strong>Digital Craftsman</strong>
-  Software Engineer | AI/ML Enthusiast | Full Stack Developer
-</p>
-
-<p>
-  I'm a full-stack developer building my version of the digital world
-  one step at a time. All coding projects are built from the ground up,
-  from planning and designing all the way to solving real-life problems
-  with code.
-</p>
-
-<p><br>
-  I’m passionate about crafting meaningful digital experiences,
-  exploring new technologies, and continuously improving my skills
-  to bring creative ideas to life through software.
-</p>
-
-<br clear="all" />
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./profile-ascii.svg" width="420" alt="Kaayaeeshan's animated ASCII portrait" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="./about-me.svg" width="420" alt="About Kaayaeeshan: AI/ML enthusiast, software engineer, and full-stack developer" />
+    </td>
+  </tr>
+</table>
 
 ---
-
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/kaayaeeshan_sai?t=eXxEECHKnY_jt8i0q-OjNw&s=09) <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/kaayaeeshan-vanniyasingam-827852238?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/kaayaeeshan_vanniyasingam?igsh=MXd0cnJuMzl2c2lz)
 
