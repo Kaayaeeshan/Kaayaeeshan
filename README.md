@@ -10,7 +10,7 @@
       <img src="./profile-ascii.svg" width="420" alt="Kaayaeeshan's animated ASCII portrait" />
     </td>
     <td width="50%" valign="top">
-      <img src="./about-me.svg" width="420" alt="About Kaayaeeshan: AI/ML enthusiast, software engineer, and full-stack developer" />
+      <img src="./about-me.svg?v=2" width="420" alt="About Kaayaeeshan: AI/ML enthusiast, software engineer, and full-stack developer" />
     </td>
   </tr>
 </table>
