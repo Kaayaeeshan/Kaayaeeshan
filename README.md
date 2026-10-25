@@ -4,35 +4,32 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&duration=4000&color=F7A731&width=435&lines=Full+Stack+Developer+;Tech+Enthusiast;Software+Engineer" alt="Typing SVG" />
 </a>
 
-<table>
-  <tr>
-    <td width="38%" valign="top">
-      <img
-        src="./profile-ascii.svg"
-        width="320"
-        alt="Kaayaeeshan's animated ASCII portrait"
-      />
-    </td>
-    <td width="62%" valign="top">
-      <p>
-        <strong>
-          <code>Digital Craftsman (Software Engineer | AI/ML Enthusiast | Full Stack Developer)</code>
-        </strong>
-      </p>
-      <p><br>
-        I'm a full-stack developer building my version of the digital world
-        one step at a time. All coding projects are built from the ground up,
-        from planning and designing all the way to solving real-life problems
-        with code.
-      </p>
-      <p>
-        I’m passionate about crafting meaningful digital experiences,
-        exploring new technologies, and continuously improving my skills
-        to bring creative ideas to life through software.
-      </p>
-    </td>
-  </tr>
-</table>
+<img
+  align="left"
+  src="./profile-ascii.svg"
+  width="320"
+  alt="Kaayaeeshan's animated ASCII portrait"
+/>
+
+<p>
+  <strong>Digital Craftsman</strong>
+  Software Engineer | AI/ML Enthusiast | Full Stack Developer
+</p>
+
+<p>
+  I'm a full-stack developer building my version of the digital world
+  one step at a time. All coding projects are built from the ground up,
+  from planning and designing all the way to solving real-life problems
+  with code.
+</p>
+
+<p><br>
+  I’m passionate about crafting meaningful digital experiences,
+  exploring new technologies, and continuously improving my skills
+  to bring creative ideas to life through software.
+</p>
+
+<br clear="all" />
 
 ---
 
