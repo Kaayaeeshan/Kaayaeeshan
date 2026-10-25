@@ -6,16 +6,20 @@
 
 <table>
   <tr>
-    <td width="38%" valign="middle">
-      <img src="./profile-ascii.svg" width="320" alt="Kaayaeeshan's animated ASCII portrait" />
+    <td width="38%" valign="top">
+      <img
+        src="./profile-ascii.svg"
+        width="320"
+        alt="Kaayaeeshan's animated ASCII portrait"
+      />
     </td>
-    <td width="62%" valign="middle">
+    <td width="62%" valign="top">
       <p>
         <strong>
           <code>Digital Craftsman (Software Engineer | AI/ML Enthusiast | Full Stack Developer)</code>
         </strong>
       </p>
-      <p>
+      <p><br>
         I'm a full-stack developer building my version of the digital world
         one step at a time. All coding projects are built from the ground up,
         from planning and designing all the way to solving real-life problems
