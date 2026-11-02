@@ -1,4 +1,4 @@
-<h1>👨‍💻 Kaayaeeshan Vanniyasingam</h1>
+<h1 align= "center">👨‍💻 Hi, I am Kaayaeeshan Vanniyasingam 👋</h1>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=700&amp;duration=4000&amp;color=F7A731&amp;width=500&amp;lines=AI%2FML+Enthusiast;Software+Engineer;Full+Stack+Developer" alt="AI/ML Enthusiast, Software Engineer, Full Stack Developer" />
